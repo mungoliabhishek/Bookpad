@@ -1,0 +1,7 @@
+/list     list all user's document in the cloud
+/upload   helps to upload document to the cloud
+/preview  helps to preview document in the cloud
+/download helps to download document in the cloud
+/edit     helps to edit document in the cloud itself & save the changes
+/rename   helps to rename the document in the cloud
+/delete   helps to delete the unwanted documents from the cloud

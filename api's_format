@@ -1,0 +1,8 @@
+http://server/list/
+http://server/upload/
+http://server/preview?id=docid
+http://server/download?id=docid
+http://server/edit?id=docid
+http://server/rename?id=docid&name="newname"
+http://server/delete?id=docid
+
